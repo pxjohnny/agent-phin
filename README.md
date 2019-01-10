@@ -31,9 +31,6 @@ phin is **trusted** by some really important projects. The hundreds of contribut
 
 Also, phin is super **lightweight**. Like **99.8% smaller than request** lightweight. To compare to other libraries, see [phin vs. the Competition](https://github.com/ethanent/phin/blob/master/README.md#phin-vs-the-competition).
 
-<img src="https://pbs.twimg.com/media/DSPF9TaUQAA0tIe.jpg:large" alt="phin became 33% lighter with release 2.7.0!"/>
-
-
 ## Quick Demos
 
 Simple POST:
