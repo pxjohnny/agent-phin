@@ -22,7 +22,7 @@ Note that the above should be in an async context! phin also provides an unpromi
 ## Install
 
 ```
-npm install phin
+npm install agent-phin
 ```
 
 
