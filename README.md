@@ -4,8 +4,7 @@
 
 > The ultra-lightweight Node.js HTTP client
 
-[Full documentation](https://ethanent.github.io/phin/) | [GitHub](https://github.com/ethanent/phin) | [NPM](https://www.npmjs.com/package/phin)
-
+This is a fork from [Phin](https://github.com/ethanent/phin) that adds support for HTTP agent.
 
 ## Simple Usage
 
