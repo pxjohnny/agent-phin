@@ -1,6 +1,6 @@
 {
   "name": "agent-phin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The ultra-lightweight Node.js HTTP client now with http agent support",
   "main": "lib/phin.min.js",
   "scripts": {

@@ -48,7 +48,23 @@ await p({
 })
 ```
 
-Using HTTP request agent:
+Using KeepAlive agent:
+
+```js
+const https = require('https');
+const keepAliveAgent = new https.Agent({ keepAlive: true });
+
+await p({
+	url: 'https://ethanent.me',
+	method: 'POST',
+	data: {
+		hey: 'hi'
+	},
+	agent: keepAliveAgent
+})
+```
+
+Using agent for proxy:
 
 ```js
 const HttpsProxyAgent = require('https-proxy-agent');
